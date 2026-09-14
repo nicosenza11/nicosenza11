@@ -5,46 +5,47 @@
 </h1>
 
 <p align="center">
-  <em>Sou desenvolvedor e estudante de informática biomédica pela UFPR, focando grande parte do meu tempo em construir sistemas, arquiteturas eficientes e no gerenciamento de projetos.</em>
+  <em>Desenvolvedor e estudante de **Informática Biomédica** na UFPR, construindo sistemas, arquiteturas eficientes e boas experiências de usuário.</em>
 </p>
 
-<br/>
-
-### 🚀 O que eu faço
-* ⚙️ Desenvolvimento de sistemas Back-end utilizando **C# e NHibernate** (foco nas integrações, lógicas de negócios e arquitetura aplicadas).
-* 🎨 Paixão por **UI/UX** com foco em planejar e criar experiências de usuário fluidas. Desenho layouts, protótipos interativos e componentes diretamente no **Figma**.
-* 🧪 Experiência forte com documentação técnica e testes, cobrindo atualizações de tarefas, comportamentos de interface e logs de banco de dados.
-* 💻 Conhecimento em desenvolvimento Front-end com **React e Tailwind CSS**, garantindo fidelidade visual e interfaces responsivas..
-* 📊 Implementação de frameworks de avaliação e auditorias de rastreamento de departamentos.
-
-<br/>
-
-### ⚡ Sobre mim
-* ⚽ Torcedor apaixonado do **PSG** desde criança.
-* 🎲 Apaixonado por **Baldur's Gate 3**.
-* 🧙‍♂️ Gosto de **Magic: The Gathering** (meu deck é de **Baldur's Gate**☝️).
-* 🎮 Antes de ter uma vida, gostava muito de **Overwatch**.
-
-<br/>
-
-### 🛠️ Tecnologias e Ferramentas
-<div align="left">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/NHibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
-
-<br/>
-
-### 📫 Como me encontrar
-<div align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/nicolas-cosenza/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nicosenza11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
+
+<br/>
+
+### 🚀 O que eu faço
+- ⚙️ **Back-end** com **C# e NHibernate**, integrações, lógica de negócios e arquitetura.
+- 🎨 **UI/UX**, protótipos e componentes interativos no **Figma**, pensando na fluidez da experiência.
+- 💻 **Front-end** com **React** e **Tailwind CSS**, com foco em fidelidade visual e responsividade.
+- 🧪 Documentação técnica, testes e auditorias de qualidade ao longo do ciclo de desenvolvimento.
+
+<br/>
+
+### 🛠️ Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/NHibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<br/>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<br/>
+
+### ⚡ Fora do código
+⚽ PSG desde criança · 🎲 Fascinado por Baldur's Gate 3 · 🧙‍♂️ Magic: The Gathering (deck de Baldur's Gate☝️) · 🎮 ex-viciado em Overwatch
