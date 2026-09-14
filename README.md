@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <em>Desenvolvedor e estudante de **Informática Biomédica** na UFPR, construindo sistemas, arquiteturas eficientes e boas experiências de usuário.</em>
+  <em>Desenvolvedor e estudante de Informática Biomédica na UFPR, construindo sistemas, arquiteturas eficientes e boas experiências de usuário.</em>
 </p>
 
 <p align="center">
@@ -41,8 +41,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicosenza11&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicosenza11&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicosenza11&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicosenza11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="Top languages" />
 </p>
 
 <br/>
