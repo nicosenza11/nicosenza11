@@ -23,7 +23,7 @@
 * ⚽ Torcedor apaixonado do **PSG** desde criança.
 * 🎲 Apaixonado por **Baldur's Gate 3**.
 * 🧙‍♂️ Gosto de **Magic: The Gathering** (meu deck é de **Baldur's Gate**☝️).
-* 🎮 Antes de ter uma vida, gostava muito **Overwatch**.
+* 🎮 Antes de ter uma vida, gostava muito de **Overwatch**.
 
 <br/>
 
