@@ -1,15 +1,12 @@
 <p align="center">
   <img src="logo_psg.png" width="70"/>
-</p>
-
-<p align="center">
+  <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=500&color=CEAB5D&center=true&vCenter=true&width=600&lines=Construindo+sistemas+e+arquiteturas+eficientes;Foco+em+boas+experi%C3%AAncias+de+usu%C3%A1rio;Back-end+com+C%23+%7C+Front-end+com+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=500&color=CEAB5D&center=true&vCenter=true&width=600&height=30&lines=Construindo+sistemas+e+arquiteturas+eficientes;Foco+em+boas+experi%C3%AAncias+de+usu%C3%A1rio;Back-end+com+C%23+%7C+Front-end+com+React" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
+  <br><br>
   <a href="https://www.linkedin.com/in/nicolas-cosenza/"><img src="https://img.shields.io/badge/linkedin-01426A?style=for-the-badge&logo=linkedin&logoColor=CEAB5D" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
   <a href="mailto:nicosenza11@gmail.com"><img src="https://img.shields.io/badge/Email-DA291C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -40,5 +37,5 @@
 ### ⚡ Fora do código
 
 <p align="center">
-  <b>⚽ PSG desde criança</b> &nbsp;·&nbsp; <b>🎲 Fascinado por Baldur's Gate 3</b> &nbsp;·&nbsp; <b>🧙‍♂️ Magic: The Gathering (deck de Baldur's Gate☝️)</b> &nbsp;·&nbsp; <b>🎮 ex-viciado em Overwatch</b>
+  <b>⚽ PSG desde criança</b> &nbsp;·&nbsp; <b>🎲 Fascinado por Baldur's Gate 3</b> &nbsp;·&nbsp; <b>🧙‍♂️ Magic: The Gathering (deck de Baldur's Gate☝️)</b>
 </p>
